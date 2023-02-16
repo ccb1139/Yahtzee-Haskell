@@ -1,0 +1,6 @@
+TO-DO:
+DONE    - Create Dice and Hand 
+    - Parse input from player
+    - Score Table
+DONE    - Re-Roll Dice
+    - Input validation
